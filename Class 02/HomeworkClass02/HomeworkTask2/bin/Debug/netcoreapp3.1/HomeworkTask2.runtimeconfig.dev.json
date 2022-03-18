@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/mario/.dotnet/store/|arch|/|tfm|",
-      "/Users/mario/.nuget/packages"
-    ]
-  }
-}
